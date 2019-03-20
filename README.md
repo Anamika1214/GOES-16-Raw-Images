@@ -1,7 +1,8 @@
 # GOES-16 Raw Images
-Extracts images from each of the 16 bands of the GOES-16 NOAA'S satellite.
+Python scripts to extract images from each one of the GOES-16 NOAA'S satellite 16 bands.
 
 The project's main goal is to give insight about what can be done with the combination of these images.
+Some outputs are shown below.
 
  Band 3             |   Band 7
 :-------------------------:|:-------------------------:
