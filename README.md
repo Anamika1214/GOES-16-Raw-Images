@@ -2,6 +2,7 @@
 Python scripts to extract images from each one of the GOES-16 NOAA'S satellite 16 bands.
 
 The project's main goal is to give insight about what can be done with the combination of these images.
+
 Some outputs are shown below.
 
  Band 3             |   Band 7
